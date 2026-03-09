@@ -74,9 +74,20 @@ TaskFlow is a sleek, intuitive, and high-performance task management application
     ```
 
 ---
+### 🔜 Roadmap (Future Enhancements)
+**[ ] Cloud Sync:** Firebase integration for multi-device synchronization.
 
+**[ ] Reminders:** Local push notifications for upcoming deadlines.
 
-## 👨‍💻 Developed By
+**[ ] Attachments:** Ability to add images or voice notes to tasks.
+
+**[ ] Collaboration:** Share task lists with other users.
+
+**[ ] Desktop Support:** Optimized UI for MacOS and Windows.
+
+---
+
+### 👨‍💻 Developed By
 Hifza Nazir Flutter Developer & UI/UX Enthusiast
 
 📧 **Email:** hifzanazir456@gmail.com
