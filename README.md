@@ -77,6 +77,7 @@ TaskFlow is a sleek, intuitive, and high-performance task management application
 
 ## 📁 Project Architecture
 
+---
 
 lib/
 ├── models/           # Task and User data structures
@@ -86,6 +87,7 @@ lib/
 ├── widgets/          # Custom reusable UI components
 └── main.dart         # App entry point
 
+---
 
 ## 👨‍💻 Developed By
 Hifza Nazir Flutter Developer & UI/UX Enthusiast
