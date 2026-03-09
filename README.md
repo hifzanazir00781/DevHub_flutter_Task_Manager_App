@@ -87,6 +87,8 @@ lib/
 ├── widgets/          # Custom reusable UI components used across the app
 └── main.dart         # Entry point of the application
 
+---
+
 ## 👨‍💻 Developed By
 Hifza Nazir Flutter Developer & UI/UX Enthusiast
 
